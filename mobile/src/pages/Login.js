@@ -53,7 +53,7 @@ export default function Login({ navigation }) {
             />
 
             <TouchableOpacity onPress={handleLogin} style={styles.button}>
-                <Text style={styles.buttonText}>Enviar</Text>
+                <Text style={styles.buttonText}>Enviarr</Text>
             </TouchableOpacity>
         </KeyboardAvoidingView>
     );
